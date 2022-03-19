@@ -1,0 +1,24 @@
+{
+  "name": "chat-with-me",
+  "version": "1.0.0",
+  "description": "node.js와 socket.io를 활용한 채팅 Server/Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayaeLee777/chat-with-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayaeLee777/chat-with-me/issues"
+  },
+  "homepage": "https://github.com/dayaeLee777/chat-with-me#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
